@@ -1,0 +1,47 @@
+
+#: VC-U2CVICNEL
+msgid "Unable to check version (Invalid content, not enough lines)"
+msgstr "Не удалось проверить версию (недопустимое содержимое, недостаточно строк)"
+
+#: VC-U2CVIC
+msgid "Unable to check version (Invalid content)"
+msgstr "Не удалось проверить версию (недопустимое содержимое)"
+
+#: VC-CFNV
+msgid "Check for new version"
+msgstr "Проверить наличие новой версии"
+
+#: VC-NCA
+msgid "Cheat Engine %s is available at www.cheatengine.org. Go there now?"
+msgstr "Новая версия Cheat Engine %s доступна на сайте www.cheatengine.org. Перейти на сайт сейчас?"
+
+#: VC-UP2D
+msgid "You are up to date. The latest version is %s"
+msgstr "У вас установлена последняя версия.\nАктуальная версия — %s"
+
+#: VC-WTF
+msgid "Unable to check version (Can't connect)"
+msgstr "Не удалось проверить версию (ошибка подключения)"
+
+#: VC-UPDATETO
+msgid "Update to %s"
+msgstr "Обновить до версии %s"
+
+#: VC-UPDATETO
+msgid "In how many days should I notify you again?"
+msgstr "Через сколько дней напомнить вам снова?"
+
+#: VC-SETTINGS-TEXT
+msgid "Check for updates when Cheat Engine starts"
+msgstr "Проверять наличие обновлений при запуске Cheat Engine"
+
+#: VC-INTERVAL
+msgid "Interval(days):"
+msgstr "Интервал (в днях):"
+
+
+
+
+
+
+

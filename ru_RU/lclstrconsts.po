@@ -1,0 +1,1427 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: lclstrconsts.hhshelpbrowsernotexecutable
+msgid "Browser %s%s%s not executable."
+msgstr "Не удалось запустить браузер %s%s%s."
+
+#: lclstrconsts.hhshelpbrowsernotfound
+msgid "Browser %s%s%s not found."
+msgstr "Браузер %s%s%s не найден."
+
+#: lclstrconsts.hhshelperrorwhileexecuting
+msgid "Error while executing %s%s%s:%s%s"
+msgstr "Ошибка при выполнении %s%s%s:%s%s"
+
+#: lclstrconsts.hhshelpnohtmlbrowserfound
+msgid "Unable to find a HTML browser."
+msgstr "Не удалось найти HTML-браузер."
+
+#: lclstrconsts.hhshelpnohtmlbrowserfoundpleasedefineoneinhelpconfigurehe
+msgid "No HTML Browser found.%sPlease define one in Environment -> Options -> Help -> Help Options"
+msgstr "HTML-браузер не найден.%sУкажите браузер в меню Среда -> Параметры -> Справка -> Параметры справки"
+
+#: lclstrconsts.hhshelpthehelpdatabasewasunabletofindfile
+msgid "The help database %s%s%s was unable to find file %s%s%s."
+msgstr "База данных справки %s%s%s не смогла найти файл %s%s%s."
+
+#: lclstrconsts.hhshelpthemacrosinbrowserparamswillbereplacedbytheurl
+msgid "The macro %s in BrowserParams will be replaced by the URL."
+msgstr "Макрос %s в BrowserParams будет заменён URL-адресом."
+
+#: lclstrconsts.ifsalt
+msgid "Alt"
+msgstr "Alt"
+
+#: lclstrconsts.ifsctrl
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: lclstrconsts.ifsvk_accept
+msgid "Accept"
+msgstr "Принять"
+
+#: lclstrconsts.ifsvk_apps
+msgid "application key"
+msgstr "Клавиша контекстного меню"
+
+#: lclstrconsts.ifsvk_back
+msgid "Backspace"
+msgstr "Backspace"
+
+#: lclstrconsts.ifsvk_cancel
+msgctxt "lclstrconsts.ifsvk_cancel"
+msgid "Cancel"
+msgstr "Отмена"
+
+#: lclstrconsts.ifsvk_capital
+msgid "Capital"
+msgstr "Caps Lock"
+
+#: lclstrconsts.ifsvk_clear
+msgid "Clear"
+msgstr "Очистить"
+
+#: lclstrconsts.ifsvk_control
+msgid "Control"
+msgstr "Ctrl"
+
+#: lclstrconsts.ifsvk_convert
+msgid "Convert"
+msgstr "Преобразовать"
+
+#: lclstrconsts.ifsvk_delete
+msgctxt "lclstrconsts.ifsvk_delete"
+msgid "Delete"
+msgstr "Delete"
+
+#: lclstrconsts.ifsvk_down
+msgctxt "lclstrconsts.ifsvk_down"
+msgid "Down"
+msgstr "Стрелка вниз"
+
+#: lclstrconsts.ifsvk_end
+msgctxt "lclstrconsts.ifsvk_end"
+msgid "End"
+msgstr "End"
+
+#: lclstrconsts.ifsvk_escape
+msgid "Escape"
+msgstr "Esc"
+
+#: lclstrconsts.ifsvk_execute
+msgid "Execute"
+msgstr "Выполнить"
+
+#: lclstrconsts.ifsvk_final
+msgid "Final"
+msgstr "Финальный режим"
+
+#: lclstrconsts.ifsvk_hanja
+msgid "Hanja"
+msgstr "Hanja"
+
+#: lclstrconsts.ifsvk_help
+msgid "Help"
+msgstr "Справка"
+
+#: lclstrconsts.ifsvk_home
+msgctxt "lclstrconsts.ifsvk_home"
+msgid "Home"
+msgstr "Home"
+
+#: lclstrconsts.ifsvk_insert
+msgctxt "lclstrconsts.ifsvk_insert"
+msgid "Insert"
+msgstr "Insert"
+
+#: lclstrconsts.ifsvk_junja
+msgid "Junja"
+msgstr "Junja"
+
+#: lclstrconsts.ifsvk_kana
+msgid "Kana"
+msgstr "Kana"
+
+#: lclstrconsts.ifsvk_lbutton
+msgid "Mouse Button Left"
+msgstr "Левая кнопка мыши"
+
+#: lclstrconsts.ifsvk_left
+msgctxt "lclstrconsts.ifsvk_left"
+msgid "Left"
+msgstr "Стрелка влево"
+
+#: lclstrconsts.ifsvk_lwin
+msgid "left windows key"
+msgstr "Левая клавиша Windows"
+
+#: lclstrconsts.ifsvk_mbutton
+msgid "Mouse Button Middle"
+msgstr "Средняя кнопка мыши"
+
+#: lclstrconsts.ifsvk_menu
+msgctxt "lclstrconsts.ifsvk_menu"
+msgid "Menu"
+msgstr "Меню"
+
+#: lclstrconsts.ifsvk_modechange
+msgid "Mode Change"
+msgstr "Смена режима"
+
+#: lclstrconsts.ifsvk_next
+msgctxt "lclstrconsts.ifsvk_next"
+msgid "Next"
+msgstr "Page Down"
+
+#: lclstrconsts.ifsvk_nonconvert
+msgid "Nonconvert"
+msgstr "Без преобразования"
+
+#: lclstrconsts.ifsvk_numlock
+msgid "Numlock"
+msgstr "Num Lock"
+
+#: lclstrconsts.ifsvk_numpad
+msgid "Numpad %d"
+msgstr "Цифровая клавиатура %d"
+
+#: lclstrconsts.ifsvk_pause
+msgid "Pause key"
+msgstr "Клавиша Pause"
+
+#: lclstrconsts.ifsvk_print
+msgid "Print"
+msgstr "Печать"
+
+#: lclstrconsts.ifsvk_prior
+msgctxt "lclstrconsts.ifsvk_prior"
+msgid "Prior"
+msgstr "Page Up"
+
+#: lclstrconsts.ifsvk_rbutton
+msgid "Mouse Button Right"
+msgstr "Правая кнопка мыши"
+
+#: lclstrconsts.ifsvk_return
+msgid "Return"
+msgstr "Enter"
+
+#: lclstrconsts.ifsvk_right
+msgctxt "lclstrconsts.ifsvk_right"
+msgid "Right"
+msgstr "Стрелка вправо"
+
+#: lclstrconsts.ifsvk_rwin
+msgid "right windows key"
+msgstr "Правая клавиша Windows"
+
+#: lclstrconsts.ifsvk_scroll
+msgid "Scroll"
+msgstr "Scroll Lock"
+
+#: lclstrconsts.ifsvk_select
+msgid "Select"
+msgstr "Выбрать"
+
+#: lclstrconsts.ifsvk_shift
+msgid "Shift"
+msgstr "Shift"
+
+#: lclstrconsts.ifsvk_snapshot
+msgid "Snapshot"
+msgstr "Print Screen"
+
+#: lclstrconsts.ifsvk_space
+msgid "Space key"
+msgstr "Пробел"
+
+#: lclstrconsts.ifsvk_tab
+msgctxt "lclstrconsts.ifsvk_tab"
+msgid "Tab"
+msgstr "Tab"
+
+#: lclstrconsts.ifsvk_unknown
+msgid "Unknown"
+msgstr "Неизвестно"
+
+#: lclstrconsts.ifsvk_up
+msgctxt "lclstrconsts.ifsvk_up"
+msgid "Up"
+msgstr "Стрелка вверх"
+
+#: lclstrconsts.liscannotexecute
+msgid "can not execute %s"
+msgstr "Не удалось выполнить %s"
+
+#: lclstrconsts.lislclresourcesnotfound
+msgctxt "lclstrconsts.lislclresourcesnotfound"
+msgid "Resource %s not found"
+msgstr "Ресурс %s не найден"
+
+#: lclstrconsts.lisprogramfilenotfound
+msgid "program file not found %s"
+msgstr "Файл программы не найден: %s"
+
+#: lclstrconsts.rs3ddkshadowcolorcaption
+msgid "3D Dark Shadow"
+msgstr "Тёмная тень 3D-элементов"
+
+#: lclstrconsts.rs3dlightcolorcaption
+msgid "3D Light"
+msgstr "Светлая область 3D-элементов"
+
+#: lclstrconsts.rsacontrolcannothaveitselfasparent
+msgid "A control can't have itself as a parent"
+msgstr "Элемент управления не может быть родительским элементом для самого себя"
+
+#: lclstrconsts.rsactivebordercolorcaption
+msgid "Active Border"
+msgstr "Граница активного окна"
+
+#: lclstrconsts.rsactivecaptioncolorcaption
+msgid "Active Caption"
+msgstr "Заголовок активного окна"
+
+#: lclstrconsts.rsallfiles
+msgid "All files (%s)|%s|%s"
+msgstr "Все файлы (%s)|%s|%s"
+
+#: lclstrconsts.rsappworkspacecolorcaption
+msgid "Application Workspace"
+msgstr "Рабочая область приложения"
+
+#: lclstrconsts.rsaquacolorcaption
+msgid "Aqua"
+msgstr "Аквамариновый"
+
+#: lclstrconsts.rsbackgroundcolorcaption
+msgid "Desktop"
+msgstr "Рабочий стол"
+
+#: lclstrconsts.rsbackward
+msgid "Backward"
+msgstr "Назад"
+
+#: lclstrconsts.rsbitmaps
+msgid "Bitmaps"
+msgstr "Растровые изображения"
+
+#: lclstrconsts.rsblackcolorcaption
+msgid "Black"
+msgstr "Чёрный"
+
+#: lclstrconsts.rsblank
+msgid "Blank"
+msgstr "Пустой"
+
+#: lclstrconsts.rsbluecolorcaption
+msgid "Blue"
+msgstr "Синий"
+
+#: lclstrconsts.rsbtnfacecolorcaption
+msgid "Button Face"
+msgstr "Поверхность кнопки"
+
+#: lclstrconsts.rsbtnhighlightcolorcaption
+msgid "Button Highlight"
+msgstr "Подсветка кнопки"
+
+#: lclstrconsts.rsbtnshadowcolorcaption
+msgid "Button Shadow"
+msgstr "Тень кнопки"
+
+#: lclstrconsts.rsbtntextcolorcaption
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: lclstrconsts.rscalculator
+msgid "Calculator"
+msgstr "Калькулятор"
+
+#: lclstrconsts.rscancelrecordhint
+msgctxt "lclstrconsts.rscancelrecordhint"
+msgid "Cancel"
+msgstr "Отмена"
+
+#: lclstrconsts.rscannotfocus
+msgid "Can not focus"
+msgstr "Не удалось установить фокус"
+
+#: lclstrconsts.rscanvasdoesnotallowdrawing
+msgid "Canvas does not allow drawing"
+msgstr "Область рисования не позволяет выполнять отрисовку"
+
+#: lclstrconsts.rscaptiontextcolorcaption
+msgid "Caption Text"
+msgstr "Текст заголовка"
+
+#: lclstrconsts.rscasesensitive
+msgid "Case sensitive"
+msgstr "Учитывать регистр"
+
+#: lclstrconsts.rscontrolclasscantcontainchildclass
+msgid "Control of class '%s' can't have control of class '%s' as a child"
+msgstr "Элемент управления класса '%s' не может содержать дочерний элемент управления класса '%s'"
+
+#: lclstrconsts.rscontrolhasnoparentwindow
+msgid "Control '%s' has no parent window"
+msgstr "Элемент управления '%s' не имеет родительского окна"
+
+#: lclstrconsts.rscreamcolorcaption
+msgid "Cream"
+msgstr "Кремовый"
+
+#: lclstrconsts.rscreatinggdbcatchableerror
+msgid "Creating gdb catchable error:"
+msgstr "Создание ошибки, перехватываемой GDB:"
+
+#: lclstrconsts.rscursor
+msgid "Cursor"
+msgstr "Курсор"
+
+#: lclstrconsts.rscustomcolorcaption
+msgid "Custom ..."
+msgstr "Другой цвет..."
+
+#: lclstrconsts.rsdefaultcolorcaption
+msgid "Default"
+msgstr "По умолчанию"
+
+#: lclstrconsts.rsdefaultfileinfovalue
+msgid "permissions user group size date time"
+msgstr "права пользователь группа размер дата время"
+
+#: lclstrconsts.rsdeleterecord
+msgid "Delete record?"
+msgstr "Удалить запись?"
+
+#: lclstrconsts.rsdeleterecordhint
+msgctxt "lclstrconsts.rsdeleterecordhint"
+msgid "Delete"
+msgstr "Удалить"
+
+#: lclstrconsts.rsdirection
+msgid "Direction"
+msgstr "Направление"
+
+#: lclstrconsts.rsdirectory
+msgid "&Directory"
+msgstr "&Каталог"
+
+#: lclstrconsts.rsdocking
+msgid "Docking"
+msgstr "Закрепление окон"
+
+#: lclstrconsts.rsduplicateiconformat
+msgid "Duplicate icon format."
+msgstr "Повторяющийся формат значка."
+
+#: lclstrconsts.rseditrecordhint
+msgid "Edit"
+msgstr "Изменить"
+
+#: lclstrconsts.rsentirescope
+msgid "Search entire file"
+msgstr "Искать во всём файле"
+
+#: lclstrconsts.rserror
+msgctxt "lclstrconsts.rserror"
+msgid "Error"
+msgstr "Ошибка"
+
+#: lclstrconsts.rserrorcreatingdevicecontext
+msgid "Error creating device context for %s.%s"
+msgstr "Ошибка создания контекста устройства для %s.%s"
+
+#: lclstrconsts.rserrorinlcl
+msgid "ERROR in LCL: "
+msgstr "ОШИБКА в LCL: "
+
+#: lclstrconsts.rserroroccurredinataddressframe
+msgid "Error occurred in %s at %sAddress %s%s Frame %s"
+msgstr "Ошибка в %s по адресу %sАдрес %s%s Кадр %s"
+
+#: lclstrconsts.rserrorreadingproperty
+msgid "Error reading %s%s%s: %s"
+msgstr "Ошибка чтения %s%s%s: %s"
+
+#: lclstrconsts.rserrorwhilesavingbitmap
+msgid "Error while saving bitmap."
+msgstr "Ошибка при сохранении растрового изображения."
+
+#: lclstrconsts.rsexception
+msgid "Exception"
+msgstr "Исключение"
+
+#: lclstrconsts.rsfddirectorymustexist
+msgid "Directory must exist"
+msgstr "Каталог должен существовать"
+
+#: lclstrconsts.rsfddirectorynotexist
+msgid "The directory \"%s\" does not exist."
+msgstr "Каталог \"%s\" не существует."
+
+#: lclstrconsts.rsfdfilealreadyexists
+msgid "The file \"%s\" already exists. Overwrite ?"
+msgstr "Файл \"%s\" уже существует. Перезаписать?"
+
+#: lclstrconsts.rsfdfilemustexist
+msgid "File must exist"
+msgstr "Файл должен существовать"
+
+#: lclstrconsts.rsfdfilenotexist
+msgid "The file \"%s\" does not exist."
+msgstr "Файл \"%s\" не существует."
+
+#: lclstrconsts.rsfdfilereadonly
+msgid "The file \"%s\" is not writable."
+msgstr "Файл \"%s\" недоступен для записи."
+
+#: lclstrconsts.rsfdfilereadonlytitle
+msgid "File is not writable"
+msgstr "Файл недоступен для записи"
+
+#: lclstrconsts.rsfdfilesaveas
+msgid "Save file as"
+msgstr "Сохранить файл как"
+
+#: lclstrconsts.rsfdopenfile
+msgid "Open existing file"
+msgstr "Открыть существующий файл"
+
+#: lclstrconsts.rsfdoverwritefile
+msgid "Overwrite file ?"
+msgstr "Перезаписать файл?"
+
+#: lclstrconsts.rsfdpathmustexist
+msgid "Path must exist"
+msgstr "Путь должен существовать"
+
+#: lclstrconsts.rsfdpathnoexist
+msgid "The path \"%s\" does not exist."
+msgstr "Путь \"%s\" не существует."
+
+#: lclstrconsts.rsfdselectdirectory
+msgid "Select Directory"
+msgstr "Выберите каталог"
+
+#: lclstrconsts.rsfileinfofilenotfound
+msgid "(file not found: \"%s\")"
+msgstr "(файл не найден: \"%s\")"
+
+#: lclstrconsts.rsfileinformation
+msgid "File information"
+msgstr "Информация о файле"
+
+#: lclstrconsts.rsfind
+msgid "Find"
+msgstr "Найти"
+
+#: lclstrconsts.rsfindmore
+msgid "Find more"
+msgstr "Найти ещё"
+
+#: lclstrconsts.rsfirstrecordhint
+msgid "First"
+msgstr "Первая запись"
+
+#: lclstrconsts.rsfixedcolstoobig
+msgid "FixedCols can't be >= ColCount"
+msgstr "FixedCols не может быть >= ColCount"
+
+#: lclstrconsts.rsfixedrowstoobig
+msgid "FixedRows can't be >= RowCount"
+msgstr "FixedRows не может быть >= RowCount"
+
+#: lclstrconsts.rsformcolorcaption
+msgid "Form"
+msgstr "Форма"
+
+#: lclstrconsts.rsformstreamingerror
+msgid "Form streaming \"%s\" error: %s"
+msgstr "Ошибка потоковой загрузки формы \"%s\": %s"
+
+#: lclstrconsts.rsforward
+msgid "Forward"
+msgstr "Вперёд"
+
+#: lclstrconsts.rsfuchsiacolorcaption
+msgid "Fuchsia"
+msgstr "Фуксия"
+
+#: lclstrconsts.rsgdkoptiondebug
+msgid "--gdk-debug flags     Turn on specific GDK trace/debug messages."
+msgstr "--gdk-debug флаги     Включить определённые сообщения трассировки и отладки GDK."
+
+#: lclstrconsts.rsgdkoptionnodebug
+msgid "--gdk-no-debug flags  Turn off specific GDK trace/debug messages."
+msgstr "--gdk-no-debug флаги  Отключить определённые сообщения трассировки и отладки GDK."
+
+#: lclstrconsts.rsgif
+msgid "Graphics Interchange Format"
+msgstr "Формат обмена графическими данными (GIF)"
+
+#: lclstrconsts.rsgoptionfatalwarnings
+msgid "--g-fatal-warnings    Warnings and errors generated by Gtk+/GDK will halt the application."
+msgstr "--g-fatal-warnings    Предупреждения и ошибки Gtk+/GDK будут приводить к остановке приложения."
+
+#: lclstrconsts.rsgradientactivecaptioncolorcaption
+msgid "Gradient Active Caption"
+msgstr "Градиент заголовка активного окна"
+
+#: lclstrconsts.rsgradientinactivecaptioncolorcaption
+msgid "Gradient Inactive Caption"
+msgstr "Градиент заголовка неактивного окна"
+
+#: lclstrconsts.rsgraphic
+msgid "Graphic"
+msgstr "Изображение"
+
+#: lclstrconsts.rsgraycolorcaption
+msgid "Gray"
+msgstr "Серый"
+
+#: lclstrconsts.rsgraytextcolorcaption
+msgid "Gray Text"
+msgstr "Серый текст"
+
+#: lclstrconsts.rsgreencolorcaption
+msgid "Green"
+msgstr "Зелёный"
+
+#: lclstrconsts.rsgridfiledoesnotexists
+msgid "Grid file doesn't exists"
+msgstr "Файл таблицы не существует"
+
+#: lclstrconsts.rsgridindexoutofrange
+msgid "Grid index out of range."
+msgstr "Индекс таблицы выходит за допустимые пределы."
+
+#: lclstrconsts.rsgroupindexcannotbelessthanprevious
+msgid "GroupIndex cannot be less than a previous menu item's GroupIndex"
+msgstr "GroupIndex не может быть меньше значения GroupIndex предыдущего пункта меню"
+
+#: lclstrconsts.rsgtkfilter
+msgid "Filter:"
+msgstr "Фильтр:"
+
+#: lclstrconsts.rsgtkhistory
+msgid "History:"
+msgstr "История:"
+
+#: lclstrconsts.rsgtkoptionclass
+msgid "--class classname     Following Xt conventions, the class of a program is the program name with the initial character capitalized. For example, the classname for gimp is \"Gimp\". If --class is specified, the class of the program will be set to \"classname\"."
+msgstr "--class classname     Согласно соглашениям Xt, имя класса программы совпадает с именем программы, но начинается с заглавной буквы. Например, имя класса для gimp — \"Gimp\". Если указан параметр --class, класс программы будет установлен в \"classname\"."
+
+#: lclstrconsts.rsgtkoptiondebug
+msgid "--gtk-debug flags     Turn on specific Gtk+ trace/debug messages."
+msgstr "--gtk-debug флаги     Включить определённые сообщения трассировки и отладки Gtk+."
+
+#: lclstrconsts.rsgtkoptiondisplay
+msgid "--display h:s:d       Connect to the specified X server, where \"h\" is the hostname, \"s\" is the server number (usually 0), and \"d\" is the display number (typically omitted). If --display is not specified, the DISPLAY environment variable is used."
+msgstr "--display h:s:d       Подключиться к указанному X-серверу, где \"h\" — имя хоста, \"s\" — номер сервера (обычно 0), а \"d\" — номер дисплея (обычно опускается). Если параметр --display не указан, используется переменная окружения DISPLAY."
+
+#: lclstrconsts.rsgtkoptionmodule
+msgid "--gtk-module module   Load the specified module at startup."
+msgstr "--gtk-module module   Загрузить указанный модуль при запуске."
+
+#: lclstrconsts.rsgtkoptionname
+msgid "--name programe       Set program name to \"progname\". If not specified, program name will be set to ParamStrUTF8(0)."
+msgstr "--name programe       Установить имя программы в \"progname\". Если параметр не указан, имя программы будет установлено в ParamStrUTF8(0)."
+
+#: lclstrconsts.rsgtkoptionnodebug
+msgid "--gtk-no-debug flags  Turn off specific Gtk+ trace/debug messages."
+msgstr "--gtk-no-debug флаги  Отключить определённые сообщения трассировки и отладки Gtk+."
+
+#: lclstrconsts.rsgtkoptionnotransient
+msgid "--lcl-no-transient    Do not set transient order for modal forms"
+msgstr "--lcl-no-transient    Не устанавливать порядок зависимых окон для модальных форм"
+
+#: lclstrconsts.rsgtkoptionnoxshm
+msgid "--no-xshm             Disable use of the X Shared Memory Extension."
+msgstr "--no-xshm             Отключить использование расширения общей памяти X (XShm)."
+
+#: lclstrconsts.rsgtkoptionsync
+msgid "--sync                Call XSynchronize (display, True) after the Xserver connection has been established. This makes debugging X protocol errors easier, because X request buffering will be disabled and X errors will be received immediately after the protocol request that generated the error has been processed by the X server."
+msgstr "--sync                Вызвать XSynchronize (display, True) после установки соединения с X-сервером. Это упрощает отладку ошибок протокола X, поскольку буферизация запросов X будет отключена, а сообщения об ошибках будут поступать сразу после обработки X-сервером запроса, вызвавшего ошибку."
+
+#: lclstrconsts.rshelpalreadyregistered
+msgid "%s: Already registered"
+msgstr "%s: уже зарегистрировано"
+
+#: lclstrconsts.rshelpcontextnotfound
+msgid "Help Context not found"
+msgstr "Контекст справки не найден"
+
+#: lclstrconsts.rshelpdatabasenotfound
+msgid "Help Database not found"
+msgstr "База данных справки не найдена"
+
+#: lclstrconsts.rshelperror
+msgid "Help Error"
+msgstr "Ошибка справки"
+
+#: lclstrconsts.rshelphelpcontextnotfound
+msgid "Help context %s not found."
+msgstr "Контекст справки %s не найден."
+
+#: lclstrconsts.rshelphelpcontextnotfoundindatabase
+msgid "Help context %s not found in Database %s%s%s."
+msgstr "Контекст справки %s не найден в базе данных %s%s%s."
+
+#: lclstrconsts.rshelphelpdatabasedidnotfoundaviewerforahelppageoftype
+msgid "Help Database %s%s%s did not found a viewer for a help page of type %s"
+msgstr "База данных справки %s%s%s не смогла найти средство просмотра страницы справки типа %s"
+
+#: lclstrconsts.rshelphelpdatabasenotfound
+msgid "Help Database %s%s%s not found"
+msgstr "База данных справки %s%s%s не найдена"
+
+#: lclstrconsts.rshelphelpkeywordnotfound
+msgid "Help keyword %s%s%s not found."
+msgstr "Ключевое слово справки %s%s%s не найдено."
+
+#: lclstrconsts.rshelphelpkeywordnotfoundindatabase
+msgid "Help keyword %s%s%s not found in Database %s%s%s."
+msgstr "Ключевое слово справки %s%s%s не найдено в базе данных %s%s%s."
+
+#: lclstrconsts.rshelphelpnodehasnohelpdatabase
+msgid "Help node %s%s%s has no Help Database"
+msgstr "Для узла справки %s%s%s не указана база данных справки"
+
+#: lclstrconsts.rshelpnohelpfoundforsource
+msgid "No help found for line %d, column %d of %s."
+msgstr "Справка для строки %d, столбца %d файла %s не найдена."
+
+#: lclstrconsts.rshelpnohelpnodesavailable
+msgid "No help nodes available"
+msgstr "Нет доступных узлов справки"
+
+#: lclstrconsts.rshelpnotfound
+msgid "Help not found"
+msgstr "Справка не найдена"
+
+#: lclstrconsts.rshelpnotregistered
+msgid "%s: Not registered"
+msgstr "%s: не зарегистрировано"
+
+#: lclstrconsts.rshelpselectorerror
+msgid "Help Selector Error"
+msgstr "Ошибка выбора справки"
+
+#: lclstrconsts.rshelpthereisnoviewerforhelptype
+msgid "There is no viewer for help type %s%s%s"
+msgstr "Отсутствует средство просмотра справки типа %s%s%s"
+
+#: lclstrconsts.rshelpviewererror
+msgid "Help Viewer Error"
+msgstr "Ошибка средства просмотра справки"
+
+#: lclstrconsts.rshelpviewernotfound
+msgid "Help Viewer not found"
+msgstr "Средство просмотра справки не найдено"
+
+#: lclstrconsts.rshighlightcolorcaption
+msgid "Highlight"
+msgstr "Выделение"
+
+#: lclstrconsts.rshighlighttextcolorcaption
+msgid "Highlight Text"
+msgstr "Текст выделенного элемента"
+
+#: lclstrconsts.rshotlightcolorcaption
+msgid "Hot Light"
+msgstr "Цвет активной ссылки"
+
+#: lclstrconsts.rsicns
+msgid "Mac OS X Icon"
+msgstr "Значок Mac OS X"
+
+#: lclstrconsts.rsicon
+msgid "Icon"
+msgstr "Значок"
+
+#: lclstrconsts.rsiconimageempty
+msgid "Icon image cannot be empty"
+msgstr "Изображение значка не может быть пустым"
+
+#: lclstrconsts.rsiconimageformat
+msgid "Icon image must have the same format"
+msgstr "Изображения значка должны иметь одинаковый формат"
+
+#: lclstrconsts.rsiconimageformatchange
+msgid "Cannot change format of icon image"
+msgstr "Невозможно изменить формат изображения значка"
+
+#: lclstrconsts.rsiconimagesize
+msgid "Icon image must have the same size"
+msgstr "Изображения значка должны иметь одинаковый размер"
+
+#: lclstrconsts.rsiconimagesizechange
+msgid "Cannot change size of icon image"
+msgstr "Невозможно изменить размер изображения значка"
+
+#: lclstrconsts.rsiconnocurrent
+msgid "Icon has no current image"
+msgstr "У значка отсутствует текущее изображение"
+
+#: lclstrconsts.rsinactivebordercolorcaption
+msgid "Inactive Border"
+msgstr "Граница неактивного окна"
+
+#: lclstrconsts.rsinactivecaptioncolorcaption
+msgctxt "lclstrconsts.rsinactivecaptioncolorcaption"
+msgid "Inactive Caption"
+msgstr "Заголовок неактивного окна"
+
+#: lclstrconsts.rsinactivecaptiontext
+msgctxt "lclstrconsts.rsinactivecaptiontext"
+msgid "Inactive Caption"
+msgstr "Заголовок неактивного окна"
+
+#: lclstrconsts.rsindexoutofbounds
+msgid "%s Index %d out of bounds 0 .. %d"
+msgstr "%s: индекс %d выходит за пределы диапазона 0 .. %d"
+
+#: lclstrconsts.rsindexoutofrange
+msgid "Index Out of range Cell[Col=%d Row=%d]"
+msgstr "Индекс ячейки выходит за допустимые пределы [Столбец=%d Строка=%d]"
+
+#: lclstrconsts.rsinfobkcolorcaption
+msgid "Info Background"
+msgstr "Фон подсказки"
+
+#: lclstrconsts.rsinfotextcolorcaption
+msgid "Info Text"
+msgstr "Текст подсказки"
+
+#: lclstrconsts.rsinsertrecordhint
+msgctxt "lclstrconsts.rsinsertrecordhint"
+msgid "Insert"
+msgstr "Вставить"
+
+#: lclstrconsts.rsinvaliddate
+msgid "Invalid Date : %s"
+msgstr "Недопустимая дата: %s"
+
+#: lclstrconsts.rsinvaliddaterangehint
+msgid "Invalid Date: %s. Must be between %s and %s"
+msgstr "Недопустимая дата: %s. Дата должна находиться в диапазоне от %s до %s"
+
+#: lclstrconsts.rsinvalidformobjectstream
+msgid "invalid Form object stream"
+msgstr "Недопустимый поток объекта формы"
+
+#: lclstrconsts.rsinvalidpropertyvalue
+msgid "Invalid property value"
+msgstr "Недопустимое значение свойства"
+
+#: lclstrconsts.rsinvalidstreamformat
+msgid "Invalid stream format"
+msgstr "Недопустимый формат потока"
+
+#: lclstrconsts.rsisalreadyassociatedwith
+msgid "%s is already associated with %s"
+msgstr "%s уже связан с %s"
+
+#: lclstrconsts.rsjpeg
+msgid "Joint Picture Expert Group"
+msgstr "Формат JPEG (Joint Photographic Experts Group)"
+
+#: lclstrconsts.rslastrecordhint
+msgid "Last"
+msgstr "Последняя запись"
+
+#: lclstrconsts.rslimecolorcaption
+msgid "Lime"
+msgstr "Лаймовый"
+
+#: lclstrconsts.rslistindexexceedsbounds
+msgid "List index exceeds bounds (%d)"
+msgstr "Индекс списка выходит за допустимые пределы (%d)"
+
+#: lclstrconsts.rslistmustbeempty
+msgid "List must be empty"
+msgstr "Список должен быть пустым"
+
+#: lclstrconsts.rsmarooncolorcaption
+msgid "Maroon"
+msgstr "Бордовый"
+
+#: lclstrconsts.rsmbabort
+msgid "Abort"
+msgstr "Прервать"
+
+#: lclstrconsts.rsmball
+msgid "&All"
+msgstr "&Все"
+
+#: lclstrconsts.rsmbcancel
+msgctxt "lclstrconsts.rsmbcancel"
+msgid "Cancel"
+msgstr "Отмена"
+
+#: lclstrconsts.rsmbclose
+msgid "&Close"
+msgstr "&Закрыть"
+
+#: lclstrconsts.rsmbhelp
+msgid "&Help"
+msgstr "&Справка"
+
+#: lclstrconsts.rsmbignore
+msgid "&Ignore"
+msgstr "&Игнорировать"
+
+#: lclstrconsts.rsmbno
+msgid "&No"
+msgstr "&Нет"
+
+#: lclstrconsts.rsmbnotoall
+msgid "No to all"
+msgstr "Нет для всех"
+
+#: lclstrconsts.rsmbok
+msgid "&OK"
+msgstr "&ОК"
+
+#: lclstrconsts.rsmbopen
+msgid "&Open"
+msgstr "&Открыть"
+
+#: lclstrconsts.rsmbretry
+msgid "&Retry"
+msgstr "&Повторить"
+
+#: lclstrconsts.rsmbsave
+msgid "&Save"
+msgstr "&Сохранить"
+
+#: lclstrconsts.rsmbunlock
+msgid "&Unlock"
+msgstr "&Разблокировать"
+
+#: lclstrconsts.rsmbyes
+msgid "&Yes"
+msgstr "&Да"
+
+#: lclstrconsts.rsmbyestoall
+msgid "Yes to &All"
+msgstr "Да для &всех"
+
+#: lclstrconsts.rsmedgraycolorcaption
+msgid "Medium Gray"
+msgstr "Средне-серый"
+
+#: lclstrconsts.rsmenubarcolorcaption
+msgid "Menu Bar"
+msgstr "Строка меню"
+
+#: lclstrconsts.rsmenucolorcaption
+msgctxt "lclstrconsts.rsmenucolorcaption"
+msgid "Menu"
+msgstr "Меню"
+
+#: lclstrconsts.rsmenuhighlightcolorcaption
+msgid "Menu Highlight"
+msgstr "Подсветка меню"
+
+#: lclstrconsts.rsmenutextcolorcaption
+msgid "Menu Text"
+msgstr "Текст меню"
+
+#: lclstrconsts.rsmodified
+msgid "  modified "
+msgstr "  изменено "
+
+#: lclstrconsts.rsmoneygreencolorcaption
+msgid "Money Green"
+msgstr "Светло-зелёный"
+
+#: lclstrconsts.rsmtauthentication
+msgid "Authentication"
+msgstr "Аутентификация"
+
+#: lclstrconsts.rsmtconfirmation
+msgid "Confirmation"
+msgstr "Подтверждение"
+
+#: lclstrconsts.rsmtcustom
+msgid "Custom"
+msgstr "Пользовательский"
+
+#: lclstrconsts.rsmterror
+msgctxt "lclstrconsts.rsmterror"
+msgid "Error"
+msgstr "Ошибка"
+
+#: lclstrconsts.rsmtinformation
+msgid "Information"
+msgstr "Информация"
+
+#: lclstrconsts.rsmtwarning
+msgid "Warning"
+msgstr "Предупреждение"
+
+#: lclstrconsts.rsnavycolorcaption
+msgid "Navy"
+msgstr "Тёмно-синий"
+
+#: lclstrconsts.rsnextrecordhint
+msgctxt "lclstrconsts.rsnextrecordhint"
+msgid "Next"
+msgstr "Следующая запись"
+
+#: lclstrconsts.rsnonecolorcaption
+msgid "None"
+msgstr "Нет"
+
+#: lclstrconsts.rsnotavalidgridfile
+msgid "Not a valid grid file"
+msgstr "Недопустимый файл таблицы"
+
+#: lclstrconsts.rsnowidgetset
+msgid "No widgetset object. Please check if the unit \"interfaces\" was added to the programs uses clause."
+msgstr "Объект набора элементов интерфейса отсутствует. Проверьте, добавлен ли модуль \"interfaces\" в раздел uses программы."
+
+#: lclstrconsts.rsolivecolorcaption
+msgid "Olive"
+msgstr "Оливковый"
+
+#: lclstrconsts.rspickdate
+msgid "Select a date"
+msgstr "Выберите дату"
+
+#: lclstrconsts.rspixmap
+msgid "Pixmap"
+msgstr "Растровое изображение"
+
+#: lclstrconsts.rsportablebitmap
+msgid "Portable BitMap"
+msgstr "Переносимый формат растровых изображений (PBM)"
+
+#: lclstrconsts.rsportablegraymap
+msgid "Portable GrayMap"
+msgstr "Переносимый формат изображений в оттенках серого (PGM)"
+
+#: lclstrconsts.rsportablenetworkgraphic
+msgid "Portable Network Graphic"
+msgstr "Формат переносимой сетевой графики (PNG)"
+
+#: lclstrconsts.rsportablepixmap
+msgid "Portable PixMap"
+msgstr "Переносимый формат цветных растровых изображений (PPM)"
+
+#: lclstrconsts.rspostrecordhint
+msgid "Post"
+msgstr "Сохранить запись"
+
+#: lclstrconsts.rspressoktoignoreandriskdatacorruptionpresscanceltok
+msgid "%s%sPress OK to ignore and risk data corruption.%sPress Cancel to kill the program."
+msgstr "%s%sНажмите ОК, чтобы проигнорировать ошибку, рискуя повредить данные.%sНажмите Отмена, чтобы завершить программу."
+
+#: lclstrconsts.rspriorrecordhint
+msgctxt "lclstrconsts.rspriorrecordhint"
+msgid "Prior"
+msgstr "Предыдущая запись"
+
+#: lclstrconsts.rspropertydoesnotexist
+msgid "Property %s does not exist"
+msgstr "Свойство %s не существует"
+
+#: lclstrconsts.rspurplecolorcaption
+msgid "Purple"
+msgstr "Пурпурный"
+
+#: lclstrconsts.rsqtoptiondograb
+msgid "-dograb (only under X11), running under a debugger can cause an implicit -nograb, use -dograb to override. Need QT_DEBUG."
+msgstr "-dograb (только для X11) — при запуске под отладчиком может неявно включаться параметр -nograb. Используйте -dograb, чтобы переопределить это поведение. Требуется QT_DEBUG."
+
+#: lclstrconsts.rsqtoptiongraphicsstyle
+msgid "-graphicssystem param, sets the backend to be used for on-screen widgets and QPixmaps. Available options are native, raster and opengl. OpenGL is still unstable."
+msgstr "-graphicssystem param — задаёт графический движок для отображения элементов интерфейса и QPixmap. Доступные варианты: native, raster и opengl. Поддержка OpenGL пока нестабильна."
+
+#: lclstrconsts.rsqtoptionnograb
+msgid "-nograb, tells Qt that it must never grab the mouse or the keyboard. Need QT_DEBUG."
+msgstr "-nograb — запрещает Qt захватывать мышь или клавиатуру. Требуется QT_DEBUG."
+
+#: lclstrconsts.rsqtoptionreverse
+msgid "-reverse, sets the application's layout direction to Qt::RightToLeft."
+msgstr "-reverse — устанавливает направление расположения элементов интерфейса справа налево (Qt::RightToLeft)."
+
+#: lclstrconsts.rsqtoptionsession
+msgid "-session session, restores the application from an earlier session."
+msgstr "-session session — восстанавливает приложение из предыдущего сеанса."
+
+#: lclstrconsts.rsqtoptionstyle
+msgid "-style style or -style=style, sets the application GUI style. Possible values are motif, windows, and platinum. If you compiled Qt with additional styles or have additional styles as plugins these will be available to the -style  command line option. NOTE: Not all styles are available on all platforms. If style param does not exist Qt will start an application with default common style (windows)."
+msgstr "-style style или -style=style — задаёт стиль графического интерфейса приложения. Возможные значения: motif, windows и platinum. Если Qt собран с дополнительными стилями или они установлены в виде плагинов, их также можно выбрать с помощью параметра командной строки -style. ПРИМЕЧАНИЕ: не все стили доступны на всех платформах. Если указанный стиль не существует, Qt запустит приложение со стандартным стилем (windows)."
+
+#: lclstrconsts.rsqtoptionstylesheet
+msgid "-stylesheet stylesheet or -stylesheet=stylesheet, sets the application Style Sheet. The value must be a path to a file that contains the Style Sheet. Note: Relative URLs in the Style Sheet file are relative to the Style Sheet file's path."
+msgstr "-stylesheet stylesheet или -stylesheet=stylesheet — задаёт таблицу стилей приложения. Значением должен быть путь к файлу, содержащему таблицу стилей. Примечание: относительные URL-адреса в таблице стилей определяются относительно расположения файла таблицы стилей."
+
+#: lclstrconsts.rsqtoptionsync
+msgid "-sync (only under X11), switches to synchronous mode for debugging."
+msgstr "-sync (только для X11) — переключает приложение в синхронный режим для отладки."
+
+#: lclstrconsts.rsqtoptionwidgetcount
+msgid "-widgetcount, prints debug message at the end about number of widgets left undestroyed and maximum number of widgets existed at the same time."
+msgstr "-widgetcount — при завершении работы выводит отладочное сообщение с количеством неуничтоженных элементов интерфейса и максимальным количеством элементов, существовавших одновременно."
+
+#: lclstrconsts.rsqtoptionx11bgcolor
+msgid "-bg or -background color, sets the default background color and an application palette (light and dark shades are calculated)."
+msgstr "-bg или -background color — задаёт цвет фона по умолчанию и цветовую палитру приложения (светлые и тёмные оттенки рассчитываются автоматически)."
+
+#: lclstrconsts.rsqtoptionx11btncolor
+msgid "-btn or -button color, sets the default button color."
+msgstr "-btn или -button color — задаёт цвет кнопок по умолчанию."
+
+#: lclstrconsts.rsqtoptionx11cmap
+msgid "-cmap, causes the application to install a private color map on an 8-bit display."
+msgstr "-cmap — заставляет приложение использовать собственную цветовую карту на 8-битном дисплее."
+
+#: lclstrconsts.rsqtoptionx11display
+msgid "-display display, sets the X display (default is $DISPLAY)."
+msgstr "-display display — задаёт дисплей X (по умолчанию используется $DISPLAY)."
+
+#: lclstrconsts.rsqtoptionx11fgcolor
+msgid "-fg or -foreground color, sets the default foreground color."
+msgstr "-fg или -foreground color — задаёт цвет переднего плана по умолчанию."
+
+#: lclstrconsts.rsqtoptionx11font
+msgid "-fn or -font font, defines the application font. The font should be specified using an X logical font description."
+msgstr "-fn или -font font — задаёт шрифт приложения. Шрифт необходимо указывать с помощью логического описания шрифта X."
+
+#: lclstrconsts.rsqtoptionx11geometry
+msgid "-geometry geometry, sets the client geometry of the first window that is shown."
+msgstr "-geometry geometry — задаёт размеры и положение клиентской области первого отображаемого окна."
+
+#: lclstrconsts.rsqtoptionx11im
+msgid "-im, sets the input method server (equivalent to setting the XMODIFIERS environment variable)."
+msgstr "-im — задаёт сервер метода ввода (эквивалентно установке переменной окружения XMODIFIERS)."
+
+#: lclstrconsts.rsqtoptionx11inputstyle
+msgid "-inputstyle, defines how the input is inserted into the given widget, e.g. onTheSpot makes the input appear directly in the widget, while overTheSpot makes the input appear in a box floating over the widget and is not inserted until the editing is done."
+msgstr "-inputstyle — определяет способ ввода текста в элемент интерфейса. Например, onTheSpot отображает вводимый текст непосредственно внутри элемента, а overTheSpot показывает его в отдельном всплывающем поле над элементом и вставляет только после завершения редактирования."
+
+#: lclstrconsts.rsqtoptionx11name
+msgid "-name name, sets the application name."
+msgstr "-name name — задаёт имя приложения."
+
+#: lclstrconsts.rsqtoptionx11ncols
+msgid "-ncols count, limits the number of colors allocated in the color cube on an 8-bit display, if the application is using the QApplication::ManyColor color specification. If count is 216 then a 6x6x6 color cube is used (i.e. 6 levels of red, 6 of green, and 6 of blue); for other values, a cube approximately proportional to a 2x3x1 cube is used."
+msgstr "-ncols count — ограничивает количество цветов, выделяемых в цветовом кубе на 8-битном дисплее, если приложение использует режим QApplication::ManyColor. Если count равно 216, используется цветовой куб 6x6x6 (по 6 уровней красного, зелёного и синего). При других значениях используется куб с пропорциями, приблизительно соответствующими 2x3x1."
+
+#: lclstrconsts.rsqtoptionx11title
+msgid "-title title, sets the application title."
+msgstr "-title title — задаёт заголовок приложения."
+
+#: lclstrconsts.rsqtoptionx11visual
+msgid "-visual TrueColor, forces the application to use a TrueColor visual on an 8-bit display."
+msgstr "-visual TrueColor — принудительно включает использование визуального режима TrueColor на 8-битном дисплее."
+
+#: lclstrconsts.rsrasterimageendupdate
+msgid "Endupdate while no update in progress"
+msgstr "Вызов EndUpdate при отсутствии выполняемого обновления"
+
+#: lclstrconsts.rsrasterimagesaveinupdate
+msgid "Cannot save image while update in progress"
+msgstr "Невозможно сохранить изображение во время обновления"
+
+#: lclstrconsts.rsrasterimageupdateall
+msgid "Cannot begin update all when canvas only update in progress"
+msgstr "Невозможно начать полное обновление, пока выполняется обновление только области рисования"
+
+#: lclstrconsts.rsredcolorcaption
+msgid "Red"
+msgstr "Красный"
+
+#: lclstrconsts.rsrefreshrecordshint
+msgid "Refresh"
+msgstr "Обновить"
+
+#: lclstrconsts.rsreplace
+msgid "Replace"
+msgstr "Заменить"
+
+#: lclstrconsts.rsreplaceall
+msgid "Replace all"
+msgstr "Заменить всё"
+
+#: lclstrconsts.rsresourcenotfound
+msgctxt "lclstrconsts.rsresourcenotfound"
+msgid "Resource %s not found"
+msgstr "Ресурс %s не найден"
+
+#: lclstrconsts.rsscrollbarcolorcaption
+msgid "ScrollBar"
+msgstr "Полоса прокрутки"
+
+#: lclstrconsts.rsscrollbaroutofrange
+msgid "ScrollBar property out of range"
+msgstr "Значение свойства полосы прокрутки выходит за допустимые пределы"
+
+#: lclstrconsts.rsselectcolortitle
+msgid "Select color"
+msgstr "Выберите цвет"
+
+#: lclstrconsts.rsselectfonttitle
+msgid "Select a font"
+msgstr "Выберите шрифт"
+
+#: lclstrconsts.rssilvercolorcaption
+msgid "Silver"
+msgstr "Серебристый"
+
+#: lclstrconsts.rssize
+msgid "  size "
+msgstr "  размер "
+
+#: lclstrconsts.rsskybluecolorcaption
+msgid "Sky Blue"
+msgstr "Небесно-голубой"
+
+#: lclstrconsts.rstealcolorcaption
+msgid "Teal"
+msgstr "Сине-зелёный"
+
+#: lclstrconsts.rstext
+msgid "Text"
+msgstr "Текст"
+
+#: lclstrconsts.rstiff
+msgid "Tagged Image File Format"
+msgstr "Формат изображений TIFF"
+
+#: lclstrconsts.rsunabletoloaddefaultfont
+msgid "Unable to load default font"
+msgstr "Не удалось загрузить шрифт по умолчанию"
+
+#: lclstrconsts.rsunknownerrorpleasereportthisbug
+msgid "Unknown Error, please report this bug"
+msgstr "Неизвестная ошибка. Пожалуйста, сообщите об этой ошибке разработчикам"
+
+#: lclstrconsts.rsunknownpictureextension
+msgid "Unknown picture extension"
+msgstr "Неизвестное расширение файла изображения"
+
+#: lclstrconsts.rsunknownpictureformat
+msgid "Unknown picture format"
+msgstr "Неизвестный формат изображения"
+
+#: lclstrconsts.rsunsupportedbitmapformat
+msgid "Unsupported bitmap format."
+msgstr "Неподдерживаемый формат растрового изображения."
+
+#: lclstrconsts.rsunsupportedclipboardformat
+msgid "Unsupported clipboard format: %s"
+msgstr "Неподдерживаемый формат буфера обмена: %s"
+
+#: lclstrconsts.rswarningunreleaseddcsdump
+msgid " WARNING: There are %d unreleased DCs, a detailed dump follows:"
+msgstr " ПРЕДУПРЕЖДЕНИЕ: обнаружено %d неосвобождённых контекстов устройства (DC). Подробные данные:"
+
+#: lclstrconsts.rswarningunreleasedgdiobjectsdump
+msgid " WARNING: There are %d unreleased GDIObjects, a detailed dump follows:"
+msgstr " ПРЕДУПРЕЖДЕНИЕ: обнаружено %d неосвобождённых объектов GDI. Подробные данные:"
+
+#: lclstrconsts.rswarningunreleasedmessagesinqueue
+msgid " WARNING: There are %d messages left in the queue! I'll free them"
+msgstr " ПРЕДУПРЕЖДЕНИЕ: в очереди осталось %d сообщений! Они будут освобождены"
+
+#: lclstrconsts.rswarningunreleasedtimerinfos
+msgid " WARNING: There are %d TimerInfo structures left, I'll free them"
+msgstr " ПРЕДУПРЕЖДЕНИЕ: осталось %d структур TimerInfo. Они будут освобождены"
+
+#: lclstrconsts.rswarningunremovedpaintmessages
+msgid " WARNING: There are %s unremoved LM_PAINT/LM_GtkPAINT message links left."
+msgstr " ПРЕДУПРЕЖДЕНИЕ: осталось %s неудалённых связей сообщений LM_PAINT/LM_GtkPAINT."
+
+#: lclstrconsts.rswhitecolorcaption
+msgid "White"
+msgstr "Белый"
+
+#: lclstrconsts.rswholewordsonly
+msgid "Whole words only"
+msgstr "Только слова целиком"
+
+#: lclstrconsts.rswin32error
+msgid "Error:"
+msgstr "Ошибка:"
+
+#: lclstrconsts.rswin32warning
+msgid "Warning:"
+msgstr "Предупреждение:"
+
+#: lclstrconsts.rswindowcolorcaption
+msgid "Window"
+msgstr "Окно"
+
+#: lclstrconsts.rswindowframecolorcaption
+msgid "Window Frame"
+msgstr "Рамка окна"
+
+#: lclstrconsts.rswindowtextcolorcaption
+msgid "Window Text"
+msgstr "Текст окна"
+
+#: lclstrconsts.rsyellowcolorcaption
+msgid "Yellow"
+msgstr "Жёлтый"
+
+#: lclstrconsts.scannotfocus
+msgid "Cannot focus a disabled or invisible window"
+msgstr "Невозможно установить фокус на отключённое или невидимое окно"
+
+#: lclstrconsts.sduplicatemenus
+msgid "Duplicate menus"
+msgstr "Дублирование меню"
+
+#: lclstrconsts.sinvalidactioncreation
+msgid "Invalid action creation"
+msgstr "Ошибка создания действия"
+
+#: lclstrconsts.sinvalidactionenumeration
+msgid "Invalid action enumeration"
+msgstr "Ошибка перечисления действий"
+
+#: lclstrconsts.sinvalidactionregistration
+msgid "Invalid action registration"
+msgstr "Ошибка регистрации действия"
+
+#: lclstrconsts.sinvalidactionunregistration
+msgid "Invalid action unregistration"
+msgstr "Ошибка отмены регистрации действия"
+
+#: lclstrconsts.sinvalidcharset
+msgid "The char set in mask \"%s\" is not valid!"
+msgstr "Недопустимый набор символов в маске \"%s\"!"
+
+#: lclstrconsts.sinvalidimagesize
+msgid "Invalid image size"
+msgstr "Недопустимый размер изображения"
+
+#: lclstrconsts.sinvalidindex
+msgid "Invalid ImageList Index"
+msgstr "Недопустимый индекс списка изображений"
+
+#: lclstrconsts.smenuindexerror
+msgid "Menu index out of range"
+msgstr "Индекс меню выходит за допустимые пределы"
+
+#: lclstrconsts.smenuitemisnil
+msgid "MenuItem is nil"
+msgstr "MenuItem имеет значение nil"
+
+#: lclstrconsts.smenunotfound
+msgid "Sub-menu is not in menu"
+msgstr "Подменю отсутствует в меню"
+
+#: lclstrconsts.smkcalt
+msgid "Alt+"
+msgstr "Alt+"
+
+#: lclstrconsts.smkcbksp
+msgid "BkSp"
+msgstr "BkSp"
+
+#: lclstrconsts.smkcctrl
+msgid "Ctrl+"
+msgstr "Ctrl+"
+
+#: lclstrconsts.smkcdel
+msgid "Del"
+msgstr "Del"
+
+#: lclstrconsts.smkcdown
+msgctxt "lclstrconsts.smkcdown"
+msgid "Down"
+msgstr "Стрелка вниз"
+
+#: lclstrconsts.smkcend
+msgctxt "lclstrconsts.smkcend"
+msgid "End"
+msgstr "End"
+
+#: lclstrconsts.smkcenter
+msgid "Enter"
+msgstr "Enter"
+
+#: lclstrconsts.smkcesc
+msgid "Esc"
+msgstr "Esc"
+
+#: lclstrconsts.smkchome
+msgctxt "lclstrconsts.smkchome"
+msgid "Home"
+msgstr "Home"
+
+#: lclstrconsts.smkcins
+msgid "Ins"
+msgstr "Ins"
+
+#: lclstrconsts.smkcleft
+msgctxt "lclstrconsts.smkcleft"
+msgid "Left"
+msgstr "Стрелка влево"
+
+#: lclstrconsts.smkcmeta
+msgid "Meta+"
+msgstr "Meta+"
+
+#: lclstrconsts.smkcpgdn
+msgid "PgDn"
+msgstr "PgDn"
+
+#: lclstrconsts.smkcpgup
+msgid "PgUp"
+msgstr "PgUp"
+
+#: lclstrconsts.smkcright
+msgctxt "lclstrconsts.smkcright"
+msgid "Right"
+msgstr "Стрелка вправо"
+
+#: lclstrconsts.smkcshift
+msgid "Shift+"
+msgstr "Shift+"
+
+#: lclstrconsts.smkcspace
+msgid "Space"
+msgstr "Пробел"
+
+#: lclstrconsts.smkctab
+msgctxt "lclstrconsts.smkctab"
+msgid "Tab"
+msgstr "Tab"
+
+#: lclstrconsts.smkcup
+msgctxt "lclstrconsts.smkcup"
+msgid "Up"
+msgstr "Стрелка вверх"
+
+#: lclstrconsts.snomdiform
+msgid "No MDI form present."
+msgstr "MDI-форма отсутствует."
+
+#: lclstrconsts.snotimers
+msgid "No timers available"
+msgstr "Нет доступных таймеров"
+
+#: lclstrconsts.sparexpected
+msgid "Wrong token type: %s expected"
+msgstr "Неверный тип токена: ожидался %s"
+
+#: lclstrconsts.sparinvalidfloat
+msgid "Invalid floating point number: %s"
+msgstr "Недопустимое число с плавающей точкой: %s"
+
+#: lclstrconsts.sparinvalidinteger
+msgid "Invalid integer number: %s"
+msgstr "Недопустимое целое число: %s"
+
+#: lclstrconsts.sparlocinfo
+msgid " (at %d,%d, stream offset %.8x)"
+msgstr " (строка %d, столбец %d, смещение в потоке %.8x)"
+
+#: lclstrconsts.sparunterminatedbinvalue
+msgid "Unterminated byte value"
+msgstr "Незавершённое байтовое значение"
+
+#: lclstrconsts.sparunterminatedstring
+msgid "Unterminated string"
+msgstr "Незавершённая строка"
+
+#: lclstrconsts.sparwrongtokensymbol
+msgid "Wrong token symbol: %s expected but %s found"
+msgstr "Неверный символ токена: ожидался %s, но найден %s"
+
+#: lclstrconsts.sparwrongtokentype
+msgid "Wrong token type: %s expected but %s found"
+msgstr "Неверный тип токена: ожидался %s, но найден %s"
+
